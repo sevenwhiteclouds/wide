@@ -1,1 +1,1 @@
-# wide
+# Easy Widevine Enable
